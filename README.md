@@ -58,7 +58,7 @@ code
 
 ### Táblázat
 |Szintakszis | Leírás|
-|*-------|*-------|
+|-------|-------|
 |Fejléc  | Cím|
 |Bekezdés| Szöveg|
 
@@ -90,7 +90,7 @@ fogalom leírása
 
 
 ### Áthúzás
---The world is flat.--
+-The world is flat.-
 
 ### Feladatlista
 Megírni a sajtóközleményt
